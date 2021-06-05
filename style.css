@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+    background-color: #A368D5;
+}
+
+.link-header{
+  color: white;
+  border: 5px solid #3E0470;
+  background-color: #3E0470;
+  border-radius: 5px;
+}
+.link-nav{
+  color: white;
+  border: 5px solid #3E0470;
+  background-color: #3E0470;
+  border-radius: 5px;
+} 
+nav{
+    margin: 15px;
+}
+h1{
+  color: white;
+}
+li{
+  color: white;
+}
+div{
+  display: flex;
+  justify-content: center;
+  
+}
+img{
+  margin: 20px;
+}
+main{
+    color: white;
+}
+.link-text{
+    color: #3E0470;
+}
+li:hover{
+    color: yellow;
+    transform: 1s color linear;
+}
